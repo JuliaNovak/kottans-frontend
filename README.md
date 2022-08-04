@@ -10,3 +10,8 @@ I revised some of the forgotten concepts, such as HTTP methods and status codes.
 [The screenshots from the courses on Git](https://github.com/JuliaNovak/kottans-frontend/tree/main/task_git_collaboration)
 
 I liked the course from Google; it was well structured and helped me to revise and learn new git commands.
+
+## Intro to HTML and CSS
+[The screenshots from the courses on Git](https://github.com/JuliaNovak/kottans-frontend/tree/main/task_html_css_intro)
+
+These courses were useful in terms of going over some concepts in HTML and CSS once more to memorize and understand them better.
