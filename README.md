@@ -15,3 +15,8 @@ I liked the course from Google; it was well structured and helped me to revise a
 [The screenshots from the courses on Git](https://github.com/JuliaNovak/kottans-frontend/tree/main/task_html_css_intro)
 
 These courses were useful in terms of going over some concepts in HTML and CSS once more to memorize and understand them better.
+
+## Responsive Web Design
+[The screenshots from the courses on Git](https://github.com/JuliaNovak/kottans-frontend/tree/main/task_responsive_web_design)
+
+The info about Grid was new for me. The given materials helped me deepen my knowledge and Grid use skills, evethough I still have to practice it.  
