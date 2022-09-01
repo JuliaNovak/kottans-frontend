@@ -25,3 +25,8 @@ The info about Grid was new for me. The given materials helped me deepen my know
 [The screenshots from the courses on JS Basics](https://github.com/JuliaNovak/kottans-frontend/tree/main/task_js_basics)
 
 It was the hardest, yet the most useful section so far. Even though I already knew some JS Basics, I discovered many new methods and tools. The tasks on algorithms were the most challenging but the most fun too. 
+
+## DOM
+[The screenshots from the courses on DOM](https://github.com/JuliaNovak/kottans-frontend/tree/main/task_js_dom)
+
+Still, the algorithms was the most challenging part.
