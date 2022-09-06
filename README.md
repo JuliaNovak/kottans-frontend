@@ -40,9 +40,9 @@ Still, the algorithms was the most challenging part.
 
 ## Object Oriented JS
 
-The videos about [classes](https://www.youtube.com/watch?v=jgCiWIdUZ-s&list=PLM7wFzahDYnEltE-aVGhRHYPwIJn0Xquu&index=40&ab_channel=WebDev%D1%81%D0%BD%D1%83%D0%BB%D1%8F.%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%9B%D1%83%D1%89%D0%B5%D0%BD%D0%BA%D0%BE) and [proptotypes](https://www.youtube.com/watch?v=e-3GS5-rak8&list=PLM7wFzahDYnEltE-aVGhRHYPwIJn0Xquu&index=46&ab_channel=WebDev%D1%81%D0%BD%D1%83%D0%BB%D1%8F.%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%9B%D1%83%D1%89%D0%B5%D0%BD%D0%BA%D0%BE) were quite informative. They really helped to get the basics of Object Oriented JS.
+The videos about [classes](https://www.youtube.com/watch?v=jgCiWIdUZ-s&list=PLM7wFzahDYnEltE-aVGhRHYPwIJn0Xquu&index=40&ab_channel=WebDev%D1%81%D0%BD%D1%83%D0%BB%D1%8F.%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%9B%D1%83%D1%89%D0%B5%D0%BD%D0%BA%D0%BE) and [prototypes](https://www.youtube.com/watch?v=e-3GS5-rak8&list=PLM7wFzahDYnEltE-aVGhRHYPwIJn0Xquu&index=46&ab_channel=WebDev%D1%81%D0%BD%D1%83%D0%BB%D1%8F.%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%9B%D1%83%D1%89%D0%B5%D0%BD%D0%BA%D0%BE) were quite informative. They really helped to get the basics of Object Oriented JS.
 
-The Forgger Game was my favorite part. The amount of information and code to read seemed enourmous at first but as soon as I got the ball rolling it didn't seem as frightening anymore. I completed only the basic requirements for now but I think I am going to get back to this game and add some extra functionality in the future.
+The Frogger Game was my favorite part. The amount of information and code to read seemed enourmous at first but as soon as I got the ball rolling it didn't seem as frightening anymore. I completed only the basic requirements for now but I think I am going to get back to this game and add some extra functionality in the future.
 [Demo](https://julianovak.github.io/frontend-nanodegree-arcade-game/) | [Code base](https://github.com/JuliaNovak/frontend-nanodegree-arcade-game/blob/master/js/app.js)
 
 [The screenshots from the codewars](https://github.com/JuliaNovak/kottans-frontend/blob/main/task_js_oop/codewars_7kyu.png)
