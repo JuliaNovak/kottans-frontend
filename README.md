@@ -36,7 +36,10 @@ It was the hardest, yet the most useful section so far. Even though I already kn
 
 [The screenshots from the courses on DOM](https://github.com/JuliaNovak/kottans-frontend/tree/main/task_js_dom)
 
-Still, the algorithms was the most challenging part.
+Still, the algorithms were the most challenging part.
+
+Document Object Model - practice
+[Demo](https://julianovak.github.io/js-dom/) | [Code base](https://github.com/JuliaNovak/js-dom)
 
 ## Object Oriented JS
 
